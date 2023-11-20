@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Alexadre 😁
  <div>
    <a href="https://github.com/alexandreenf">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandreenf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
    <img height="180em" src="https://ginthub-readme-stats.vercel.app/api/top-langs/?username=alexandreenf&layout=compact&langs_count=6&theme=tokyonight"/>
     
 </div>
