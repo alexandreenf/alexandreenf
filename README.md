@@ -6,7 +6,7 @@
     
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="[https://raw.githubusercontent.com/ddevicons/devicon/master/icons/javascript/javascript-plain.svg](https://play-lh.googleusercontent.com/rfWOJQVBHoAZ_B43v0ySFlLmJBLtksVGAxGaFRh2ex4nOmNQ86qzG4sYWV63IKrXlvI)">
+  <img align="center" alt="Js" height="30" width="40" src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2020/08/JavaScript-logo.png?resize=194%2C300&ssl=1">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="r30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
