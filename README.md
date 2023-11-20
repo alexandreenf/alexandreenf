@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Alexadre 😁
  <div>
-   
+   <a href="https://github.com/alexandreenf">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandreenf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://ginthub-readme-stats.vercel.app/api/top-langs/?username=alexandreenf&layout=compact&langs_count=6&theme=tokyonight"/>
     
@@ -10,7 +10,7 @@
   <img align="center" alt="CSS" height="r30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
- <br>e
+ <br>
  
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
